@@ -1,0 +1,8 @@
+[Module]
+Name=MusicController
+Version=1
+Files=controller.lua
+Dependencies=minionlib
+CreateFolders=images,data,logs
+ExportFiles=images/discord.png,images/kofi.png,images/patreon.png,images/refresh.png,images/trello.png
+Enabled=1
